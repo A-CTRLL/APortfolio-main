@@ -7,25 +7,25 @@ const projects = [
   {
     name: "South Africa e-Services Portal",
     align: "right",
-    image: "public/images/e-service.png",
+    image: "./images/e-service.png",
     link: "https://www.eservices.gov.za/tonkana/home.xhtml",
   },
   {
     name: "Gauteng egov",
     align: "left",
-    image: "public/images/gauteng.png",
+    image: "./images/gauteng.png",
     link: "https://www.gauteng.gov.za/Home",
   },
   {
     name: "Enochmgijima gov",
     align: "right",
-    image: "public/images/enoch.png",
+    image: "./images/enoch.png",
     link: "https://www.enochmgijima.gov.za/",
   },
   {
     name: "Overpercent",
     align: "left",
-    image: "public/images/Overpercent.png",
+    image: "./images/Overpercent.png",
     link: "https://overpercent.co.za/",
   },
 ];
